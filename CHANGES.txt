@@ -1,0 +1,8 @@
+1.1
+
+- Ported to Python 3.4.1
+- Program architecture changed
+- Now uses Cmd Module instead of an infinite loop
+- Changed variable names to respect PEP8
+- Changed some file names
+- Deleted bcrypt functions file
